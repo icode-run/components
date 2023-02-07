@@ -1,0 +1,128 @@
+.packages-color-src-index-module__colorBox {
+  display: inline-block;
+  outline: 0;
+  line-height: 1.5;
+  font-variant: tabular-nums;
+  box-sizing: border-box;
+  vertical-align: top;
+}
+.packages-color-src-index-module__colorBox .packages-color-src-index-module__colorButton {
+  width: 50px;
+  height: 24px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  overflow: hidden;
+}
+.packages-color-src-index-module__colorBox .packages-color-src-index-module__colorButton .packages-color-src-index-module__colorValue {
+  flex: auto;
+  line-height: 24px;
+  text-align: center;
+  background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAMUlEQVQ4T2NkYGAQYcAP3uCTZhw1gGGYhAGBZIA/nYDCgBDAm9BGDWAAJyRCgLaBCAAgXwixzAS0pgAAAABJRU5ErkJggg==") left center;
+}
+.packages-color-src-index-module__colorBox .packages-color-src-index-module__colorButton .packages-color-src-index-module__colorIcon {
+  width: 15px;
+  text-align: center;
+  line-height: 24px;
+  border-left: 1px solid #eee;
+  position: relative;
+  background: #f9f9f9;
+}
+.packages-color-src-index-module__colorBox .packages-color-src-index-module__colorButton .packages-color-src-index-module__colorIcon .packages-color-src-index-module__colorClear {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  background: #f9f9f9;
+  display: none;
+  color: #666;
+}
+.packages-color-src-index-module__colorBox .packages-color-src-index-module__colorButton:hover .packages-color-src-index-module__colorIcon .packages-color-src-index-module__colorClear {
+  display: block;
+}
+.packages-color-src-index-module__colorBox .packages-color-src-index-module__colorButtonDisabled {
+  cursor: not-allowed;
+}
+.packages-color-src-index-module__colorBox .packages-color-src-index-module__colorButtonDisabled .packages-color-src-index-module__colorIcon {
+  opacity: 0.2;
+}
+.packages-color-src-index-module__colorSelectBox {
+  display: flex;
+  flex-direction: row;
+}
+.packages-color-src-index-module__colorSelectBox .packages-color-src-index-module__presetColors {
+  margin: 10px 0 9px 9px;
+  list-style: none;
+  padding: 0px;
+  width: 34px;
+}
+.packages-color-src-index-module__colorSelectBox .packages-color-src-index-module__presetColors li {
+  list-style: none;
+  padding: 0px;
+  margin: 1px;
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  border: 1px solid #000;
+  cursor: pointer;
+}
+.packages-color-src-index-module__colorSelectBox .packages-color-src-index-module__presetColors li:hover {
+  border: 1px solid #000;
+}
+.packages-color-src-index-module__colorSelectBox .sketch-picker {
+  box-shadow: none !important;
+  border-radius: 0px !important;
+  border: none !important;
+  flex: auto;
+}
+.packages-color-src-index-module__positiontop {
+  margin-top: -335px;
+}
+.packages-color-src-index-module__colorPaneBox {
+  width: 266px;
+  height: 300px;
+  background: #ffffff;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 2px 0px #ddd;
+}
+.packages-color-src-index-module__colorPaneBox .ant-tabs-nav {
+  margin-bottom: 10px;
+}
+.packages-color-src-index-module__colorPaneBox .ant-tabs-tab {
+  width: 130px;
+  padding: 5px 0;
+  margin: 0;
+}
+.packages-color-src-index-module__colorPaneBox .ant-tabs-tab + .ant-tabs-tab {
+  margin: 0;
+}
+.packages-color-src-index-module__colorPaneBox .ant-tabs-tab-btn {
+  text-align: center;
+  display: block;
+  width: 100%;
+}
+.packages-color-src-index-module__colorPaneBox .packages-color-src-index-module__variableColors {
+  margin: 5px 15px 15px 15px;
+  padding: 0;
+}
+.packages-color-src-index-module__colorPaneBox .packages-color-src-index-module__variableColors li {
+  display: inline-block;
+  width: 31px;
+  height: 31px;
+  margin: 1px;
+  vertical-align: top;
+  background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAMUlEQVQ4T2NkYGAQYcAP3uCTZhw1gGGYhAGBZIA/nYDCgBDAm9BGDWAAJyRCgLaBCAAgXwixzAS0pgAAAABJRU5ErkJggg==") left center;
+}
+.packages-color-src-index-module__colorPaneBox .packages-color-src-index-module__variableColors li span {
+  display: block;
+  width: 31px;
+  height: 31px;
+  border: 1px solid #000;
+  cursor: pointer;
+}
+.packages-color-src-index-module__colorPaneBoxHeight {
+  height: 265px;
+}
+

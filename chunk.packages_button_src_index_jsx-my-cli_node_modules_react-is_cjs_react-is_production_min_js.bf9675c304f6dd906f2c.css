@@ -1,0 +1,254 @@
+.icode-body .ant-btn:hover,
+.icode-body .ant-btn:focus,
+.icode-body .ant-btn:active {
+  color: var(--icode-primary-color-hover);
+  border-color: var(--icode-primary-color-hover);
+  background: #fff;
+}
+.icode-body .ant-btn-primary {
+  color: #fff;
+  border-color: var(--icode-primary-color);
+  background: var(--icode-primary-color);
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.12);
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+}
+.icode-body .ant-btn-primary:hover,
+.icode-body .ant-btn-primary:focus {
+  color: #fff;
+  border-color: var(--icode-primary-color-hover);
+  background: var(--icode-primary-color-hover);
+}
+.icode-body .ant-btn-primary:active {
+  color: #fff;
+  border-color: var(--icode-primary-color-active);
+  background: var(--icode-primary-color-active);
+}
+.icode-body .ant-btn:active > a:only-child,
+.icode-body .ant-btn[disabled] > a:only-child,
+.icode-body .ant-btn[disabled]:hover > a:only-child,
+.icode-body .ant-btn[disabled]:focus > a:only-child,
+.icode-body .ant-btn[disabled]:active > a:only-child {
+  color: currentColor;
+}
+.icode-body .ant-btn-group .ant-btn-primary:not(:first-child):not(:last-child) {
+  border-right-color: var(--icode-primary-5);
+  border-left-color: var(--icode-primary-5);
+}
+.icode-body .ant-btn-group .ant-btn-primary:first-child:not(:last-child) {
+  border-right-color: var(--icode-primary-5);
+}
+.icode-body .ant-btn-group .ant-btn-primary:last-child:not(:first-child),
+.icode-body .ant-btn-group .ant-btn-primary + .ant-btn-primary {
+  border-left-color: var(--icode-primary-5);
+}
+.icode-body .ant-btn-ghost:hover,
+.icode-body .ant-btn-ghost:focus {
+  color: var(--icode-primary-color-hover);
+  border-color: var(--icode-primary-color-hover);
+  background: transparent;
+}
+.icode-body .ant-btn-ghost:active {
+  color: var(--icode-primary-color-active);
+  border-color: var(--icode-primary-color-active);
+  background: transparent;
+}
+.icode-body .ant-btn-dashed:hover,
+.icode-body .ant-btn-dashed:focus {
+  color: var(--icode-primary-color-hover);
+  border-color: var(--icode-primary-color-hover);
+  background: #fff;
+}
+.icode-body .ant-btn-dashed:active {
+  color: var(--icode-primary-color-active);
+  border-color: var(--icode-primary-color-active);
+  background: #fff;
+}
+.icode-body .ant-btn-danger {
+  color: #fff;
+  border-color: var(--icode-error-color);
+  background: var(--icode-error-color);
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.12);
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+}
+.icode-body .ant-btn-danger:hover,
+.icode-body .ant-btn-danger:focus {
+  color: #fff;
+  border-color: var(--icode-error-color-hover);
+  background: var(--icode-error-color-hover);
+}
+.icode-body .ant-btn-danger:active {
+  color: #fff;
+  border-color: var(--icode-error-color-active);
+  background: var(--icode-error-color-active);
+}
+.icode-body .ant-btn-link {
+  color: var(--icode-primary-color);
+  border-color: transparent;
+  background: transparent;
+  box-shadow: none;
+}
+.icode-body .ant-btn-link:hover,
+.icode-body .ant-btn-link:focus {
+  color: var(--icode-primary-color-hover);
+  border-color: var(--icode-primary-color-hover);
+  background: transparent;
+}
+.icode-body .ant-btn-link:active {
+  color: var(--icode-primary-color-active);
+  border-color: var(--icode-primary-color-active);
+  background: transparent;
+}
+.icode-body .ant-btn-text:hover,
+.icode-body .ant-btn-text:focus {
+  color: var(--icode-primary-color-hover);
+  border-color: var(--icode-primary-color-hover);
+  background: transparent;
+}
+.icode-body .ant-btn-text:active {
+  color: var(--icode-primary-color-active);
+  border-color: var(--icode-primary-color-active);
+  background: transparent;
+}
+.icode-body .ant-btn-dangerous {
+  color: var(--icode-error-color);
+  border-color: var(--icode-error-color);
+  background: #fff;
+}
+.icode-body .ant-btn-dangerous:hover,
+.icode-body .ant-btn-dangerous:focus {
+  color: var(--icode-error-color-hover);
+  border-color: var(--icode-error-color-hover);
+  background: #fff;
+}
+.icode-body .ant-btn-dangerous:active {
+  color: var(--icode-error-color-active);
+  border-color: var(--icode-error-color-active);
+  background: #fff;
+}
+.icode-body .ant-btn-dangerous.ant-btn-primary {
+  color: #fff;
+  border-color: var(--icode-error-color);
+  background: var(--icode-error-color);
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.12);
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+}
+.icode-body .ant-btn-dangerous.ant-btn-primary:hover,
+.icode-body .ant-btn-dangerous.ant-btn-primary:focus {
+  color: #fff;
+  border-color: var(--icode-error-color-hover);
+  background: var(--icode-error-color-hover);
+}
+.icode-body .ant-btn-dangerous.ant-btn-primary:active {
+  color: #fff;
+  border-color: var(--icode-error-color-active);
+  background: var(--icode-error-color-active);
+}
+.icode-body .ant-btn-dangerous.ant-btn-text,
+.icode-body .ant-btn-dangerous.ant-btn-link {
+  color: var(--icode-error-color);
+  border-color: transparent;
+  background: transparent;
+  box-shadow: none;
+}
+.icode-body .ant-btn-dangerous.ant-btn-text:hover,
+.icode-body .ant-btn-dangerous.ant-btn-text:focus,
+.icode-body .ant-btn-dangerous.ant-btn-link:hover,
+.icode-body .ant-btn-dangerous.ant-btn-link:focus {
+  color: var(--icode-error-color-hover);
+  border-color: transparent;
+  background: transparent;
+}
+.icode-body .ant-btn-dangerous.ant-btn-text:active,
+.icode-body .ant-btn-dangerous.ant-btn-link:active {
+  color: var(--icode-error-color-active);
+  border-color: transparent;
+  background: transparent;
+}
+.icode-body .ant-btn.ant-btn-background-ghost {
+  color: var(--icode-text-color);
+  border-color: var(--icode-border-color);
+}
+.icode-body .ant-btn.ant-btn-background-ghost:hover,
+.icode-body .ant-btn.ant-btn-background-ghost:focus {
+  color: var(--icode-primary-color-hover);
+  border-color: var(--icode-primary-color-hover);
+}
+.icode-body .ant-btn.ant-btn-background-ghost:active {
+  color: var(--icode-primary-color-active);
+  border-color: var(--icode-primary-color-active);
+}
+.icode-body .ant-btn-background-ghost.ant-btn-primary {
+  color: var(--icode-primary-color);
+  border-color: var(--icode-primary-color);
+  text-shadow: none;
+}
+.icode-body .ant-btn-background-ghost.ant-btn-primary:hover,
+.icode-body .ant-btn-background-ghost.ant-btn-primary:focus {
+  color: var(--icode-primary-color-hover);
+  border-color: var(--icode-primary-color-hover);
+  background: transparent;
+}
+.icode-body .ant-btn-background-ghost.ant-btn-primary:active {
+  color: var(--icode-primary-color-active);
+  border-color: var(--icode-primary-color-active);
+  background: transparent;
+}
+.icode-body .ant-btn-background-ghost.ant-btn-danger {
+  color: var(--icode-error-color);
+  border-color: var(--icode-error-color);
+  text-shadow: none;
+}
+.icode-body .ant-btn-background-ghost.ant-btn-danger:hover,
+.icode-body .ant-btn-background-ghost.ant-btn-danger:focus {
+  color: var(--icode-error-color-hover);
+  border-color: var(--icode-error-color-hover);
+  background: transparent;
+}
+.icode-body .ant-btn-background-ghost.ant-btn-danger:active {
+  color: var(--icode-error-color-active);
+  border-color: var(--icode-error-color-active);
+  background: transparent;
+}
+.icode-body .ant-btn-background-ghost.ant-btn-dangerous {
+  color: var(--icode-error-color);
+  border-color: var(--icode-error-color);
+  text-shadow: none;
+}
+.icode-body .ant-btn-background-ghost.ant-btn-dangerous:hover,
+.icode-body .ant-btn-background-ghost.ant-btn-dangerous:focus {
+  color: var(--icode-error-color-hover);
+  border-color: var(--icode-error-color-hover);
+  background: transparent;
+}
+.icode-body .ant-btn-background-ghost.ant-btn-dangerous:active {
+  color: var(--icode-error-color-active);
+  border-color: var(--icode-error-color-active);
+  background: transparent;
+}
+.icode-body .ant-btn-background-ghost.ant-btn-dangerous.ant-btn-link {
+  color: var(--icode-error-color);
+  border-color: transparent;
+  text-shadow: none;
+}
+.icode-body .ant-btn-background-ghost.ant-btn-dangerous.ant-btn-link:hover,
+.icode-body .ant-btn-background-ghost.ant-btn-dangerous.ant-btn-link:focus {
+  color: var(--icode-error-color-active);
+  border-color: transparent;
+  background: transparent;
+}
+.icode-body .ant-btn-background-ghost.ant-btn-dangerous.ant-btn-link:active {
+  color: var(--icode-error-color-active);
+  border-color: transparent;
+  background: transparent;
+}
+.icode-body .ant-btn-group-rtl.ant-btn-group .ant-btn-primary:last-child:not(:first-child),
+.icode-body .ant-btn-group-rtl.ant-btn-group .ant-btn-primary + .ant-btn-primary {
+  border-right-color: var(--icode-primary-5);
+  border-left-color: #d9d9d9;
+}
+.icode-body .ant-btn-group-rtl.ant-btn-group .ant-btn-primary:last-child:not(:first-child)[disabled],
+.icode-body .ant-btn-group-rtl.ant-btn-group .ant-btn-primary + .ant-btn-primary[disabled] {
+  border-right-color: #d9d9d9;
+  border-left-color: var(--icode-primary-5);
+}
+
