@@ -1,0 +1,24 @@
+.packages-svg-src-index-module__icodeSvg {
+  margin: 0;
+}
+.packages-svg-src-index-module__icodeSvg svg {
+  width: 1em;
+  height: auto;
+}
+.packages-svg-src-index-module__autoStrokeFill svg *[fill] {
+  fill: currentColor;
+}
+.packages-svg-src-index-module__autoStrokeFill svg *[stroke] {
+  stroke: currentColor;
+}
+.packages-svg-src-index-module__autoFill svg * {
+  fill: currentColor;
+}
+.packages-svg-src-index-module__autoStrokeColor svg * {
+  stroke: currentColor;
+}
+.packages-svg-src-index-module__autoWidth svg {
+  width: 100%;
+  height: auto;
+}
+

@@ -1,0 +1,28 @@
+.packages-html-item-src-index-module__box {
+  min-height: 20px;
+  color: var(--icode-primary-color);
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.packages-html-item-src-index-module__box .packages-html-item-src-index-module__svg {
+  height: 100%;
+  overflow: hidden;
+}
+.packages-html-item-src-index-module__box .packages-html-item-src-index-module__svg svg {
+  width: 100%;
+}
+.packages-html-item-src-index-module__box .packages-html-item-src-index-module__content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  display: flex;
+  flex-direction: column;
+}
+.packages-html-item-src-index-module__box .packages-html-item-src-index-module__contentHad {
+  pointer-events: all;
+}
+
