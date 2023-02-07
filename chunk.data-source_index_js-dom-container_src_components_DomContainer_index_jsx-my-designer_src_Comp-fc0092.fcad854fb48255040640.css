@@ -1,0 +1,2025 @@
+._-my-designer-src-components-ComponentBar-index-module__componentBar {
+  width: 182px !important;
+  background: #fff;
+  height: calc(100vh - 40px - 10px) !important;
+  padding-top: 3px;
+  margin: 0 !important;
+}
+._-my-designer-src-components-ComponentBar-index-module__componentBar * {
+  font-size: 12px;
+}
+._-my-designer-src-components-ComponentBar-index-module__componentBar ._-my-designer-src-components-ComponentBar-index-module__hideBtn span {
+  left: auto;
+  right: 0;
+  width: 20px;
+}
+._-my-designer-src-components-ComponentBar-index-module__componentBar .ant-tabs.ant-tabs-card .ant-tabs-card-bar .ant-tabs-tab {
+  font-size: 12px;
+}
+._-my-designer-src-components-ComponentBar-index-module__componentBar .ant-tabs-nav {
+  margin: 0;
+}
+._-my-designer-src-components-ComponentBar-index-module__tabBarExtraContent {
+  height: 30px;
+  line-height: 30px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+._-my-designer-src-components-ComponentBar-index-module__tabBarExtraContent i > * {
+  font-size: 14px;
+}
+._-my-designer-src-components-ComponentBar-index-module__tabBarExtraContent i:hover {
+  color: #1890ff;
+}
+._-my-designer-src-components-ComponentBar-index-module__leftSiderTree {
+  overflow-y: auto;
+  height: calc(100vh - 40px - 50px);
+  margin-left: 10px;
+  padding-top: 10px;
+  margin-top: 0;
+}
+._-my-designer-src-components-ComponentBar-index-module__leftSiderTree .ant-collapse > .ant-collapse-item > .ant-collapse-header {
+  padding: 5px 0px;
+  color: #333;
+}
+._-my-designer-src-components-ComponentBar-index-module__leftSiderTree .ant-collapse > .ant-collapse-item > .ant-collapse-header .ant-collapse-arrow {
+  color: #999;
+  margin-right: 5px;
+}
+._-my-designer-src-components-ComponentBar-index-module__leftSiderTree .ant-collapse-content > .ant-collapse-content-box {
+  padding: 0 !important;
+  margin-right: 10px;
+}
+._-my-designer-src-components-ComponentBar-index-module__leftSiderTree ._-my-designer-src-components-ComponentBar-index-module__btnItem {
+  font-size: 12px;
+  color: #000;
+  text-align: left;
+  font-weight: normal;
+  margin-bottom: 5px;
+  height: 30px;
+  line-height: 30px;
+  border-radius: 2px;
+  border: 1px solid #eee;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+  padding: 0 10px;
+  cursor: pointer;
+  background: #f7f7f7;
+}
+._-my-designer-src-components-ComponentBar-index-module__leftSiderTree ._-my-designer-src-components-ComponentBar-index-module__btnItem:hover,
+._-my-designer-src-components-ComponentBar-index-module__leftSiderTree ._-my-designer-src-components-ComponentBar-index-module__btnItem:active,
+._-my-designer-src-components-ComponentBar-index-module__leftSiderTree ._-my-designer-src-components-ComponentBar-index-module__btnItem:focus {
+  box-shadow: none;
+  border: 1px solid #ddd;
+  background: linear-gradient(to bottom, #e1e1e1 0%, #e9e9e9 40%, #e9e9e9 90%, #e1e1e1 100%);
+}
+
+._-my-designer-src-components-Bar-style-module__barBox {
+  background: #fff;
+  transition: width 0.3s;
+  border: 1px solid #d4d4d4;
+  margin: 0 8px 0 0;
+  width: 250px;
+}
+._-my-designer-src-components-Bar-style-module__barBox .ant-tabs-nav-container,
+._-my-designer-src-components-Bar-style-module__barBox .ant-tabs-tab {
+  height: 30px !important;
+  line-height: 28px !important;
+}
+._-my-designer-src-components-Bar-style-module__barBox .ant-tabs-bar {
+  margin: 0 0 10px 0;
+}
+._-my-designer-src-components-Bar-style-module__barBox .ant-tabs.ant-tabs-card .ant-tabs-card-bar .ant-tabs-tab-active {
+  color: #333;
+}
+._-my-designer-src-components-Bar-style-module__hideBtn {
+  cursor: pointer;
+}
+._-my-designer-src-components-Bar-style-module__barBoxHideLeft {
+  position: relative;
+}
+._-my-designer-src-components-Bar-style-module__barBoxHideLeft ._-my-designer-src-components-Bar-style-module__hideBtn span {
+  position: absolute;
+  left: auto;
+  right: 0;
+  width: 20px;
+  padding-top: 6px;
+}
+._-my-designer-src-components-Bar-style-module__hideBar {
+  width: 15px;
+}
+._-my-designer-src-components-Bar-style-module__hideBar ._-my-designer-src-components-Bar-style-module__hideBtn > span {
+  height: calc(100vh - 70px);
+  background: linear-gradient(to right, #ddd 0%, #e9e9e9 40%, #e9e9e9 90%, #ddd 100%);
+  width: auto;
+  padding-top: 6px;
+}
+._-my-designer-src-components-Bar-style-module__title {
+  padding: 9px 15px;
+  font-size: 12px;
+  color: #333;
+  font-weight: bold;
+  background: #f9f9f9;
+  border-bottom: 1px solid #d4d4d4;
+}
+
+._-my-designer-src-components-DomTree-index-module__componentBar {
+  width: 182px !important;
+  background: #fff;
+  height: calc(100vh - 40px - 40px - 10px) !important;
+  padding-top: 3px;
+  margin: 0 !important;
+}
+._-my-designer-src-components-DomTree-index-module__componentBar * {
+  font-size: 12px;
+}
+._-my-designer-src-components-DomTree-index-module__componentBar ._-my-designer-src-components-DomTree-index-module__hideBtn span {
+  left: auto;
+  right: 0;
+  width: 20px;
+}
+._-my-designer-src-components-DomTree-index-module__componentBar .ant-tabs.ant-tabs-card .ant-tabs-card-bar .ant-tabs-tab {
+  font-size: 12px;
+}
+._-my-designer-src-components-DomTree-index-module__tabBarExtraContent {
+  height: 30px;
+  line-height: 30px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+._-my-designer-src-components-DomTree-index-module__tabBarExtraContent i > * {
+  font-size: 14px;
+}
+._-my-designer-src-components-DomTree-index-module__tabBarExtraContent i:hover {
+  color: #1890ff;
+}
+._-my-designer-src-components-DomTree-index-module__leftSiderTree {
+  overflow-y: auto;
+  height: calc(100vh - 40px - 50px);
+  margin-left: 5px;
+  padding-top: 10px;
+  padding-right: 5px;
+}
+._-my-designer-src-components-DomTree-index-module__leftSiderTree .ant-tree.ant-tree-show-line li span.ant-tree-switcher {
+  background: none;
+}
+._-my-designer-src-components-DomTree-index-module__leftSiderTree .ant-tree .ant-tree-treenode {
+  white-space: nowrap;
+}
+._-my-designer-src-components-DomTree-index-module__leftSiderTree .anticon-file {
+  background: #ddd;
+  width: 12px;
+  height: 12px;
+  border-radius: 4px;
+}
+._-my-designer-src-components-DomTree-index-module__leftSiderTree .anticon-file > svg {
+  display: none;
+}
+._-my-designer-src-components-DomTree-index-module__leftSiderTreeImg {
+  overflow-y: auto;
+  height: calc(100vh - 170px);
+  margin-left: 10px;
+}
+._-my-designer-src-components-DomTree-index-module__leftSiderTreeImg .ant-tree.ant-tree-show-line li span.ant-tree-switcher {
+  background: none;
+}
+._-my-designer-src-components-DomTree-index-module__leftSiderTreeImg .anticon-file {
+  background: #ddd;
+  width: 12px;
+  height: 12px;
+  border-radius: 4px;
+}
+._-my-designer-src-components-DomTree-index-module__leftSiderTreeImg .anticon-file > svg {
+  display: none;
+}
+._-my-designer-src-components-DomTree-index-module__leftSiderTreeImg .ant-tree li span.ant-tree-switcher.ant-tree-switcher-noop {
+  display: none;
+}
+._-my-designer-src-components-DomTree-index-module__leftSiderTreeImg .ant-tree li span[draggable],
+._-my-designer-src-components-DomTree-index-module__leftSiderTreeImg .ant-tree li span[draggable='true'] {
+  font-size: 12px;
+}
+._-my-designer-src-components-DomTree-index-module__leftSiderTreeImg .ant-tree li li span[draggable],
+._-my-designer-src-components-DomTree-index-module__leftSiderTreeImg .ant-tree li li span[draggable='true'] {
+  height: auto;
+  line-height: 1.2;
+  width: 80px;
+  height: 80px;
+  margin: 0;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+}
+._-my-designer-src-components-DomTree-index-module__leftSiderTreeImg ul li ul li {
+  display: inline-block !important;
+  width: 80px;
+  font-size: 12px;
+  height: 80px;
+  vertical-align: top;
+  margin-right: 10px;
+}
+._-my-designer-src-components-DomTree-index-module__leftSiderTreeImg ul li ul {
+  white-space: normal;
+}
+._-my-designer-src-components-DomTree-index-module__menuDropBtn {
+  color: #999;
+}
+._-my-designer-src-components-DomTree-index-module__menuDropBtn:hover {
+  color: #1890ff;
+}
+
+._-my-designer-src-components-MenuDrop-index-module__menuDropBox {
+  position: absolute;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  min-width: 100px;
+  background: #fff;
+  transform: translateX(-100%);
+  z-index: 2;
+}
+._-my-designer-src-components-MenuDrop-index-module__menuDropBox ul,
+._-my-designer-src-components-MenuDrop-index-module__menuDropBox li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+._-my-designer-src-components-MenuDrop-index-module__menuDropBox li {
+  line-height: 28px;
+  height: 28px;
+  padding: 0 15px;
+  cursor: pointer;
+  background: #fff;
+  color: #333;
+}
+._-my-designer-src-components-MenuDrop-index-module__menuDropBox li > span {
+  width: 20px;
+  display: inline-block;
+}
+._-my-designer-src-components-MenuDrop-index-module__menuDropBox li:hover {
+  background: #f9f9f9;
+  color: #1890ff;
+}
+._-my-designer-src-components-MenuDrop-index-module__menuDropBox li._-my-designer-src-components-MenuDrop-index-module__line {
+  height: 1px;
+  line-height: 1px;
+  background: #eee;
+}
+._-my-designer-src-components-MenuDrop-index-module__menuDropBox li._-my-designer-src-components-MenuDrop-index-module__childrenBox,
+._-my-designer-src-components-MenuDrop-index-module__menuDropBox li._-my-designer-src-components-MenuDrop-index-module__childrenBox:hover {
+  background: #fff;
+  color: #333;
+  height: auto;
+  padding: 0;
+}
+._-my-designer-src-components-MenuDrop-index-module__menuDropBox li._-my-designer-src-components-MenuDrop-index-module__childrenBox > div,
+._-my-designer-src-components-MenuDrop-index-module__menuDropBox li._-my-designer-src-components-MenuDrop-index-module__childrenBox:hover > div {
+  height: 28px;
+  border-top: 1px solid #eee;
+  color: #999;
+  padding: 0 15px;
+}
+._-my-designer-src-components-MenuDrop-index-module__menuDropBox li._-my-designer-src-components-MenuDrop-index-module__childrenBox > ul,
+._-my-designer-src-components-MenuDrop-index-module__menuDropBox li._-my-designer-src-components-MenuDrop-index-module__childrenBox:hover > ul {
+  padding: 0;
+}
+._-my-designer-src-components-MenuDrop-index-module__menuDropBox li._-my-designer-src-components-MenuDrop-index-module__liDisabled {
+  cursor: default;
+  color: #aaa;
+  text-decoration: line-through;
+}
+._-my-designer-src-components-MenuDrop-index-module__noChecked li span {
+  display: none;
+}
+
+
+._-my-designer-src-components-ContentBar-style-module__barContent {
+  margin: 0;
+  border: 1px solid #eee;
+  flex: auto;
+  height: calc(100vh - 100px);
+  border-color: #ddd !important;
+  overflow: auto;
+  background: #fafafa;
+  white-space: nowrap;
+  margin: 0 10px;
+}
+._-my-designer-src-components-ContentBar-style-module__screenBox {
+  border: 1px solid #eee;
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+}
+
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar {
+  width: 220px;
+  height: 100%;
+  border-bottom: none;
+  margin-right: 0;
+  position: relative;
+  overflow: hidden;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar .anticon-setting:hover {
+  color: #1890ff;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar .ant-collapse-header-text {
+  width: calc(100% - 20px);
+  position: relative;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar .ant-checkbox-wrapper {
+  vertical-align: top;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar .ant-tabs-nav {
+  background: #f9f9f9;
+  padding: 9px 10px 0 10px;
+  margin-bottom: 10px !important;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar .ant-tabs-tab-btn {
+  font-size: 12px;
+  font-weight: normal;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar .ant-tabs-top > .ant-tabs-nav::before,
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar .ant-tabs-top > div > .ant-tabs-nav::before,
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar .ant-tabs-card > .ant-tabs-nav .ant-tabs-tab,
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar .ant-tabs-card > div > .ant-tabs-nav .ant-tabs-tab {
+  border-color: #ddd;
+  background: #eee;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar .ant-tabs-card.ant-tabs-top > .ant-tabs-nav .ant-tabs-tab-active,
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar .ant-tabs-card.ant-tabs-top > div > .ant-tabs-nav .ant-tabs-tab-active {
+  border-bottom-color: #fff;
+  background: #fff;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar .ant-collapse-content-box {
+  padding: 0 !important;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar .ant-collapse > .ant-collapse-item > .ant-collapse-header {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 10px;
+  font-size: 12px;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar .ant-collapse {
+  border-radius: 0px;
+  border: none;
+}
+._-my-designer-src-components-DataModelBar-index-module__barTitle {
+  padding: 9px 10px;
+  font-size: 12px;
+  color: #333;
+  font-weight: bold;
+  background: #f9f9f9;
+  border-bottom: 1px solid #d4d4d4;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  line-height: 28px;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBarStatic {
+  width: 320px;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBarStatic .ant-tabs-bar {
+  margin: 0px;
+}
+._-my-designer-src-components-DataModelBar-index-module__barBottom {
+  border-top: 1px solid #d0d0d0;
+  height: 40px;
+  line-height: 40px;
+  width: 100%;
+  background: #e6e6e6;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 0 0 0 15px;
+  cursor: pointer;
+}
+._-my-designer-src-components-DataModelBar-index-module__weiduBox {
+  height: 24vh;
+}
+._-my-designer-src-components-DataModelBar-index-module__duLiangBox {
+  height: calc(100vh - 27vh - 24vh - 120px - 40px);
+  border-bottom: none !important;
+}
+._-my-designer-src-components-DataModelBar-index-module__shaiXuanBox {
+  height: 27vh;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar ._-my-designer-src-components-DataModelBar-index-module__btnDatatable {
+  cursor: move;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar ._-my-designer-src-components-DataModelBar-index-module__btnDatatable > div {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar ._-my-designer-src-components-DataModelBar-index-module__btnDatatable > div ._-my-designer-src-components-DataModelBar-index-module__btnDatatableText {
+  line-height: 20px;
+  flex: auto;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar ._-my-designer-src-components-DataModelBar-index-module__btnDatatable > div > i {
+  line-height: 20px;
+  color: rgba(0, 0, 0, 0.4);
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar ._-my-designer-src-components-DataModelBar-index-module__btnDatatable > div > i:hover {
+  color: rgba(0, 0, 0, 0.8);
+}
+._-my-designer-src-components-DataModelBar-index-module__barContentBoxTitle {
+  height: 28px;
+  line-height: 28px;
+  display: flex;
+  padding: 0 10px;
+}
+._-my-designer-src-components-DataModelBar-index-module__barContentBoxTitle > span {
+  color: #333;
+  font-weight: bold;
+  flex: 10;
+}
+._-my-designer-src-components-DataModelBar-index-module__barContentBoxTitle i {
+  vertical-align: middle;
+}
+._-my-designer-src-components-DataModelBar-index-module__barContentBoxMain {
+  margin: 0 10px;
+  padding: 5px 0 5px 0;
+}
+._-my-designer-src-components-DataModelBar-index-module__barContentBoxMain .ant-collapse-header {
+  padding: 5px 0 !important;
+  border-top: 1px dotted #ddd;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar ._-my-designer-src-components-DataModelBar-index-module__btnDatatable {
+  font-size: 11px;
+  color: #777 !important;
+  text-align: left;
+  font-weight: normal;
+  display: inline-block;
+  margin-bottom: 5px;
+  height: 22px;
+  width: 100%;
+  margin-right: 2%;
+  border-radius: 2px !important;
+  border: 1px solid #eee;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar ._-my-designer-src-components-DataModelBar-index-module__btnDatatable:hover,
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar ._-my-designer-src-components-DataModelBar-index-module__btnDatatable:active,
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar ._-my-designer-src-components-DataModelBar-index-module__btnDatatable:focus {
+  box-shadow: none;
+  border: 1px solid #ddd;
+  background: linear-gradient(to bottom, #e1e1e1 0%, #e9e9e9 40%, #e9e9e9 90%, #e1e1e1 100%);
+}
+._-my-designer-src-components-DataModelBar-index-module__topBox {
+  padding: 5px 0;
+  list-style: none;
+  border-bottom: 1px solid #ddd;
+  margin: 0;
+  height: 60px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  margin-top: -4px;
+  width: 100%;
+}
+._-my-designer-src-components-DataModelBar-index-module__topBox li {
+  display: block;
+  margin: 0 10px;
+  padding: 0 5px;
+  line-height: 25px;
+  cursor: pointer;
+}
+._-my-designer-src-components-DataModelBar-index-module__topBox li i {
+  margin-right: 5px;
+}
+._-my-designer-src-components-DataModelBar-index-module__topBox li i * {
+  color: #999;
+}
+._-my-designer-src-components-DataModelBar-index-module__topBox li:hover {
+  background: #f9f9f9;
+}
+._-my-designer-src-components-DataModelBar-index-module__topBox ._-my-designer-src-components-DataModelBar-index-module__active,
+._-my-designer-src-components-DataModelBar-index-module__topBox ._-my-designer-src-components-DataModelBar-index-module__active:hover {
+  background: #f1f1f1;
+}
+._-my-designer-src-components-DataModelBar-index-module__shaiXuanBox,
+._-my-designer-src-components-DataModelBar-index-module__duLiangBox,
+._-my-designer-src-components-DataModelBar-index-module__weiduBox {
+  padding: 5px 0;
+  list-style: none;
+  border-bottom: 1px solid #ddd;
+  margin: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  margin-top: -4px;
+  width: 100%;
+}
+._-my-designer-src-components-DataModelBar-index-module__boxTitle {
+  padding: 0 10px;
+  color: #333;
+  line-height: 25px;
+  font-weight: bold;
+}
+._-my-designer-src-components-DataModelBar-index-module__tabBarExtraContent {
+  margin-right: 10px;
+  height: 25px;
+  line-height: 30px;
+}
+._-my-designer-src-components-DataModelBar-index-module__tabBarExtraContent i {
+  cursor: pointer;
+}
+._-my-designer-src-components-DataModelBar-index-module__tabBarExtraContent i * {
+  font-size: 14px;
+}
+._-my-designer-src-components-DataModelBar-index-module__tabBarExtraContent i:hover {
+  color: #1890ff;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelItems {
+  margin: 0 0 10px 0;
+  display: inline-block;
+  position: relative;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelItemsBox {
+  position: absolute;
+  top: 0px;
+  right: -5px;
+  list-style: none;
+  margin: 0;
+  padding: 10px 0 0 0;
+  width: 205px;
+  background: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 0 0 4px 4px;
+  z-index: 1;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelItemsBox li {
+  list-style: none;
+  margin: 0;
+  padding: 0 10px;
+  line-height: 35px;
+  cursor: pointer;
+  border-bottom: 1px dashed #eee;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelItemsBox li ._-my-designer-src-components-DataModelBar-index-module__text {
+  display: inline-block;
+  width: 60%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  vertical-align: -12px;
+  margin: 0 0 0 5px;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelItemsBox li:hover {
+  background: #f5f5f5;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelItemsBox li._-my-designer-src-components-DataModelBar-index-module__active {
+  color: #1890ff;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelItemsBox ._-my-designer-src-components-DataModelBar-index-module__importBtn {
+  border: 1px solid #ddd;
+  margin: 10px 10px;
+  border-radius: 4px;
+  text-align: center;
+  cursor: pointer;
+  line-height: 25px;
+}
+._-my-designer-src-components-DataModelBar-index-module__toolsBox {
+  position: relative;
+}
+._-my-designer-src-components-DataModelBar-index-module__toolsBox > div {
+  position: absolute;
+  right: 30px;
+  z-index: 1;
+  top: 5px;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar ._-my-designer-src-components-DataModelBar-index-module__btnParams {
+  padding: 0px 5px;
+  line-height: 25px;
+  height: 25px;
+  display: block;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataModelBar ._-my-designer-src-components-DataModelBar-index-module__btnParams .ant-tag {
+  font-size: 12px;
+  padding: 2px 3px 1px 3px;
+  line-height: 1em;
+  margin: 1px 5px 0 0;
+  background: #f5f5f5;
+  border-color: #ddd;
+  color: #999;
+}
+._-my-designer-src-components-DataModelBar-index-module__btnParamsChecked:hover,
+._-my-designer-src-components-DataModelBar-index-module__btnParamsChecked {
+  box-shadow: none;
+  border: 1px solid #00b180 !important;
+  background: rgba(0, 177, 128, 0.1) !important;
+  cursor: default !important;
+}
+._-my-designer-src-components-DataModelBar-index-module__viewParamsBarTitle {
+  list-style: none;
+  margin: 0 0 5px 0;
+  padding: 0;
+  display: flex;
+}
+._-my-designer-src-components-DataModelBar-index-module__viewParamsBarTitle li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  flex: 1;
+  border-right: 1px solid #ddd;
+  height: 30px;
+  line-height: 30px;
+  background: #f5f5f5;
+  border-bottom: 1px solid #d4d4d4;
+  cursor: pointer;
+  color: #333;
+  font-weight: bold;
+  font-size: 12px;
+}
+._-my-designer-src-components-DataModelBar-index-module__viewParamsBarTitle li:last-child {
+  border-right: none;
+}
+._-my-designer-src-components-DataModelBar-index-module__viewParamsBarTitle ._-my-designer-src-components-DataModelBar-index-module__active {
+  background: #fff;
+  border-bottom: none;
+}
+._-my-designer-src-components-DataModelBar-index-module__dataItemTitle {
+  margin-left: 10px;
+  line-height: 22px;
+  font-size: 13px;
+  display: inline-block;
+  width: calc(100% - 70px);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+._-my-designer-src-components-DataModelBar-index-module__btnDataSourceActive {
+  width: 6px;
+  margin-right: 0;
+  height: 28px;
+  line-height: 23px;
+  text-indent: 0;
+  color: #aaa;
+  cursor: pointer;
+}
+._-my-designer-src-components-DataModelBar-index-module__btnDataSourceActive:hover {
+  color: #1890ff;
+}
+._-my-designer-src-components-DataModelBar-index-module__barContentBoxMainByData .ant-collapse > .ant-collapse-item > .ant-collapse-header {
+  cursor: default;
+}
+/* 参数区域头部 */
+._-my-designer-src-components-DataModelBar-index-module__paramsContentBox ._-my-designer-src-components-DataModelBar-index-module__btnDataSourceActive {
+  width: 6px;
+  margin-right: 0;
+  height: 28px;
+  line-height: 32px;
+  text-indent: 0;
+  color: #aaa;
+  cursor: pointer;
+}
+._-my-designer-src-components-DataModelBar-index-module__paramsContentBox ._-my-designer-src-components-DataModelBar-index-module__btnDataSourceActive:hover {
+  color: #1890ff;
+}
+._-my-designer-src-components-DataModelBar-index-module__paramsContentBox .ant-collapse > .ant-collapse-item > .ant-collapse-header {
+  height: 39px;
+  line-height: 39px;
+  padding: 0 10px;
+  cursor: default;
+}
+._-my-designer-src-components-DataModelBar-index-module__paramsContentBox .ant-collapse-item {
+  border-top: 1px dotted #ddd;
+}
+._-my-designer-src-components-DataModelBar-index-module__row {
+  display: flex;
+  flex-direction: row;
+}
+._-my-designer-src-components-DataModelBar-index-module__iconFont {
+  font-size: 11px;
+  transform: scale(0.8);
+  font-style: italic;
+  color: #00b180;
+  padding-right: 5px;
+  display: inline-block;
+  vertical-align: middle;
+}
+._-my-designer-src-components-DataModelBar-index-module__iconFontU {
+  color: #c41d7f;
+}
+._-my-designer-src-components-DataModelBar-index-module__typeIcon {
+  width: 25px;
+  white-space: nowrap;
+  margin-right: 3px;
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: middle;
+}
+._-my-designer-src-components-DataModelBar-index-module__typeIcon span {
+  transform: scale(0.6) translate(-37%, 0);
+  color: #c41d7f;
+  display: block;
+  white-space: nowrap;
+}
+._-my-designer-src-components-DataModelBar-index-module__textOverflow {
+  display: inline-block;
+  vertical-align: middle;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+._-data-source-src-index-module__box {
+  height: calc(100vh - 55px);
+}
+._-data-source-src-index-module__box ._-data-source-src-index-module__sideBar {
+  width: 250px;
+  float: left;
+  height: 100%;
+  background-color: #fff;
+  border-right: 1px solid #ddd;
+}
+._-data-source-src-index-module__box ._-data-source-src-index-module__content {
+  margin-left: 250px;
+  height: 100%;
+}
+._-data-source-src-index-module__dataList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  height: calc(100vh - 125px - 40px);
+  padding-bottom: 10px;
+}
+._-data-source-src-index-module__dataList li {
+  cursor: pointer;
+  margin: 1px 10px;
+  padding: 0 10px;
+  height: 35px;
+  line-height: 35px;
+  font-size: 14px;
+}
+._-data-source-src-index-module__dataList li i {
+  color: #999;
+  margin-right: 5px;
+  vertical-align: middle;
+  margin-top: -2px;
+}
+._-data-source-src-index-module__dataList li i * {
+  font-size: 11px;
+}
+._-data-source-src-index-module__dataList li:hover {
+  background: #e7eaef;
+}
+._-data-source-src-index-module__dataList ._-data-source-src-index-module__active {
+  color: #1890ff;
+  background: #e7eaef;
+}
+
+._-data-source-src-components-TableResize-index-module__tableBox {
+  overflow: auto;
+}
+._-data-source-src-components-TableResize-index-module__tableBox table tbody tr:nth-child(even) td {
+  background: #fafafa;
+}
+._-data-source-src-components-TableResize-index-module__tableBox .ant-table-thead > tr > th {
+  padding: 0;
+}
+._-data-source-src-components-TableResize-index-module__tableBox .ant-table-tbody > tr > td {
+  padding: 5px;
+}
+._-data-source-src-components-TableResize-index-module__tableBox .react-resizable {
+  position: relative;
+  background-clip: padding-box;
+}
+._-data-source-src-components-TableResize-index-module__tableBox .react-resizable-handle {
+  position: absolute;
+  width: 10px;
+  height: 100%;
+  bottom: 0;
+  right: -5px;
+  cursor: col-resize;
+  z-index: 1;
+  background-image: none;
+}
+._-data-source-src-components-TableResize-index-module__tableBox .ant-table-header-column {
+  display: block !important;
+}
+._-data-source-src-components-TableResize-index-module__tableBox .ant-table-body {
+  max-height: calc(40vh - 43px);
+}
+._-data-source-src-components-TableResize-index-module__tableBox .ant-table-expanded-row-fixed {
+  background: #fff;
+}
+._-data-source-src-components-TableResize-index-module__text {
+  white-space: nowrap;
+  overflow: hidden;
+  width: 100%;
+  text-overflow: ellipsis;
+}
+._-data-source-src-components-TableResize-index-module__titleKeyName {
+  color: #999;
+  font-size: 12px;
+  width: 80%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  display: inline-block;
+  vertical-align: middle;
+}
+._-data-source-src-components-TableResize-index-module__titleName {
+  height: 24px;
+  line-height: 24px;
+  font-size: 14px;
+  font-weight: bold;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+._-data-source-src-components-TableResize-index-module__headerTh {
+  height: 40px;
+  line-height: 40px;
+  padding: 0 5px;
+}
+._-data-source-src-components-TableResize-index-module__headerTh h3,
+._-data-source-src-components-TableResize-index-module__headerTh p {
+  font-weight: normal;
+  color: #333;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  height: 20px;
+  line-height: 10px;
+  padding-top: 8px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+._-data-source-src-components-TableResize-index-module__headerTh p {
+  font-weight: normal;
+  line-height: 10px;
+  font-size: 12px;
+  color: #999;
+  height: 20px;
+  padding: 0;
+}
+._-data-source-src-components-TableResize-index-module__bottomTools {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  height: 20px;
+  line-height: 15px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  background: #f5f5f5;
+}
+._-data-source-src-components-TableResize-index-module__bottomTools li {
+  list-style: none;
+  margin: 0 0px 0 5px;
+  padding: 0;
+  display: inline-block;
+  padding: 0 10px;
+  font-size: 12px;
+  line-height: 15px;
+  background: #ddd;
+  color: #999;
+  border-radius: 0 0 4px 4px;
+  height: 15px;
+  cursor: pointer;
+}
+._-data-source-src-components-TableResize-index-module__bottomTools li._-data-source-src-components-TableResize-index-module__active {
+  background: #fff;
+  color: #333;
+}
+
+._-data-source-src-components-ToolsBar-index-module__pageTop {
+  height: 40px;
+  line-height: 40px;
+  padding: 0px 15px 0px 0;
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 8px;
+  display: flex;
+}
+._-data-source-src-components-ToolsBar-index-module__pageTop button {
+  margin-left: 10px;
+  line-height: 22px;
+}
+._-data-source-src-components-ToolsBar-index-module__pageTop span {
+  margin-left: 4px !important;
+}
+._-data-source-src-components-ToolsBar-index-module__pageTop ._-data-source-src-components-ToolsBar-index-module__border {
+  position: relative;
+  padding: 0 10px;
+}
+._-data-source-src-components-ToolsBar-index-module__pageTop ._-data-source-src-components-ToolsBar-index-module__border::after {
+  content: '';
+  width: 1px;
+  height: 36px;
+  position: absolute;
+  top: 2px;
+  right: -1px;
+  background: #d4d4d4;
+}
+
+._-data-source-src-components-NewDataSource-index-module__box {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+._-data-source-src-components-NewDataSource-index-module__box ._-data-source-src-components-NewDataSource-index-module__contentTop {
+  position: relative;
+  height: 60%;
+}
+._-data-source-src-components-NewDataSource-index-module__box ._-data-source-src-components-NewDataSource-index-module__contentBottom {
+  height: 40%;
+  overflow: hidden;
+}
+._-data-source-src-components-NewDataSource-index-module__box ._-data-source-src-components-NewDataSource-index-module__contentBottom .src-components-ContainerResize-index-module__dragElementTop {
+  z-index: 0;
+}
+._-data-source-src-components-NewDataSource-index-module__box ._-data-source-src-components-NewDataSource-index-module__listItems {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: calc(100% - 55px);
+  margin: 0 5px;
+}
+._-data-source-src-components-NewDataSource-index-module__box ._-data-source-src-components-NewDataSource-index-module__listItems ._-data-source-src-components-NewDataSource-index-module__listItem {
+  width: calc(33% - 30px);
+  border: 1px solid #ddd;
+  background: #fff;
+  margin: 0 15px;
+}
+._-data-source-src-components-NewDataSource-index-module__box ._-data-source-src-components-NewDataSource-index-module__listItems ._-data-source-src-components-NewDataSource-index-module__listItemIcon {
+  width: 30px;
+  text-align: center;
+  margin: 0 -10px;
+}
+._-data-source-src-components-NewDataSource-index-module__box ._-data-source-src-components-NewDataSource-index-module__listItems ._-data-source-src-components-NewDataSource-index-module__listItemIcon > span {
+  display: inline-block;
+  vertical-align: middle;
+  color: #bbb;
+  font-size: 26px;
+}
+._-data-source-src-components-NewDataSource-index-module__box ._-data-source-src-components-NewDataSource-index-module__listItems ._-data-source-src-components-NewDataSource-index-module__listItemIcon::after {
+  content: '';
+  width: 1px;
+  height: 100%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+._-data-source-src-components-View-index-module__view {
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyppVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTMyIDc5LjE1OTI4NCwgMjAxNi8wNC8xOS0xMzoxMzo0MCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUuNSAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo2MURDRjY0QzkwNUUxMUVCQUVGNUY3ODgxMjg5MEEwMiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo2MURDRjY0RDkwNUUxMUVCQUVGNUY3ODgxMjg5MEEwMiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjYxRENGNjRBOTA1RTExRUJBRUY1Rjc4ODEyODkwQTAyIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjYxRENGNjRCOTA1RTExRUJBRUY1Rjc4ODEyODkwQTAyIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+hiFcLQAAACBJREFUeNpi/PfvHwMO8PXrVyYGvGDYSrMA/Y5HGiDAABzLCM6drzgqAAAAAElFTkSuQmCC);
+  width: 100%;
+  height: 100%;
+  margin: 0 10px 0 10px;
+  border: 1px solid #ddd;
+  position: relative;
+}
+._-data-source-src-components-View-index-module__viewActive {
+  border: 1px solid #1890ff;
+}
+._-data-source-src-components-View-index-module__dataItem {
+  padding: 0 10px;
+  height: 28px;
+  line-height: 28px;
+  border: 1px solid #62a5c6;
+  border-radius: 4px;
+  margin-bottom: 5px;
+  background: #62a5c6;
+  display: inline-block;
+  position: absolute;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+._-data-source-src-components-View-index-module__dataItem i {
+  margin-left: 10px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+._-data-source-src-components-ParamItem-index-module__text {
+  padding: 5px 0;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+._-data-source-src-components-ParamItem-index-module__text > div {
+  max-width: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  line-height: 16px;
+  color: #333;
+}
+._-data-source-src-components-ParamItem-index-module__text > div:first-child {
+  color: #969dab;
+}
+._-data-source-src-components-ParamItem-index-module__item i {
+  color: #969dab;
+}
+
+._-data-source-src-components-DataTable-index-module__dataToolBtn {
+  border: 1px solid #eee;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  line-height: 25px;
+  border-radius: 4px;
+  display: inline-block;
+  margin-right: 5px;
+  cursor: pointer;
+  color: #777;
+}
+._-data-source-src-components-DataTable-index-module__dataToolBtnActive {
+  border: 1px solid #1890ff;
+  color: #1890ff;
+  background: #f5f5f5;
+}
+._-data-source-src-components-DataTable-index-module__dataToolsBox {
+  height: 40px;
+  line-height: 40px;
+  padding: 0 15px;
+}
+._-data-source-src-components-DataTable-index-module__tableBox {
+  overflow-x: auto;
+  width: 100%;
+  overflow-y: hidden;
+  height: 100%;
+  background-color: #fff;
+}
+
+._-data-source-src-components-MeasureEdit-index-module__tableBox {
+  border: 1px solid #ddd;
+  height: 200px;
+  overflow-y: auto;
+}
+._-data-source-src-components-MeasureEdit-index-module__tableBox ul,
+._-data-source-src-components-MeasureEdit-index-module__tableBox li,
+._-data-source-src-components-MeasureEdit-index-module__tableBox p {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+._-data-source-src-components-MeasureEdit-index-module__tableBox li {
+  height: 28px;
+  line-height: 28px;
+  display: flex;
+  border-bottom: 1px solid #f9f9f9;
+}
+._-data-source-src-components-MeasureEdit-index-module__tableBox li > p {
+  flex: 1;
+  border-left: 1px solid #eee;
+  padding: 0 10px;
+}
+._-data-source-src-components-MeasureEdit-index-module__tableBox li:nth-child(odd) {
+  background: #f9f9f9;
+}
+._-data-source-src-components-MeasureEdit-index-module__tableBox li > p:first-child {
+  border-left: none;
+}
+._-data-source-src-components-MeasureEdit-index-module__tableBox li:hover {
+  background: #f5f5f5;
+}
+._-data-source-src-components-MeasureEdit-index-module__tableBox li._-data-source-src-components-MeasureEdit-index-module__checkedLi,
+._-data-source-src-components-MeasureEdit-index-module__tableBox li._-data-source-src-components-MeasureEdit-index-module__checkedLi:hover {
+  background: #c9e0e9;
+}
+._-data-source-src-components-MeasureEdit-index-module__buttons {
+  padding-top: 10px;
+}
+._-data-source-src-components-MeasureEdit-index-module__buttons button {
+  margin-right: 10px;
+}
+
+._-data-source-src-components-DimensionEdit-index-module__tableBox {
+  border: 1px solid #ddd;
+  height: 200px;
+  overflow-y: auto;
+}
+._-data-source-src-components-DimensionEdit-index-module__tableBox ul,
+._-data-source-src-components-DimensionEdit-index-module__tableBox li,
+._-data-source-src-components-DimensionEdit-index-module__tableBox p {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+._-data-source-src-components-DimensionEdit-index-module__tableBox li {
+  height: 28px;
+  line-height: 28px;
+  display: flex;
+  border-bottom: 1px solid #f9f9f9;
+}
+._-data-source-src-components-DimensionEdit-index-module__tableBox li > p {
+  flex: 1;
+  border-left: 1px solid #eee;
+  padding: 0 10px;
+}
+._-data-source-src-components-DimensionEdit-index-module__tableBox li:nth-child(odd) {
+  background: #f9f9f9;
+}
+._-data-source-src-components-DimensionEdit-index-module__tableBox li > p:first-child {
+  border-left: none;
+}
+._-data-source-src-components-DimensionEdit-index-module__tableBox li:hover {
+  background: #f5f5f5;
+}
+._-data-source-src-components-DimensionEdit-index-module__tableBox li._-data-source-src-components-DimensionEdit-index-module__checkedLi,
+._-data-source-src-components-DimensionEdit-index-module__tableBox li._-data-source-src-components-DimensionEdit-index-module__checkedLi:hover {
+  background: #c9e0e9;
+}
+._-data-source-src-components-DimensionEdit-index-module__tableBox li._-data-source-src-components-DimensionEdit-index-module__name {
+  background: #bbc2c5;
+}
+._-data-source-src-components-DimensionEdit-index-module__buttons {
+  padding-top: 10px;
+}
+._-data-source-src-components-DimensionEdit-index-module__buttons button {
+  margin-right: 10px;
+}
+
+._-data-source-src-components-ParamAddModal-index-module__box {
+  min-height: 350px;
+  margin-top: -15px;
+}
+._-data-source-src-components-ParamAddModal-index-module__box * {
+  font-size: 12px;
+}
+._-data-source-src-components-ParamAddModal-index-module__valueBox {
+  border: 1px solid #eee;
+  padding: 10px;
+  margin-bottom: 5px;
+  background: #f5f5f5;
+}
+._-data-source-src-components-ParamAddModal-index-module__valueBoxActive {
+  border: 1px solid #ddd;
+  background: #fff;
+}
+._-data-source-src-components-ParamAddModal-index-module__containerRow {
+  display: flex;
+  flex-direction: row;
+}
+._-data-source-src-components-ParamAddModal-index-module__containerBox {
+  border: 1px solid #ddd;
+  margin: 20px 0;
+  border-radius: 4px;
+  position: relative;
+}
+._-data-source-src-components-ParamAddModal-index-module__containerBoxTitle {
+  background: #fff;
+  padding: 5px;
+  line-height: 12px;
+  color: #999;
+  font-size: 12px;
+  position: absolute;
+  left: 10px;
+  top: -12px;
+}
+._-data-source-src-components-ParamAddModal-index-module__containerBoxBody {
+  margin: 25px 15px 25px 15px;
+}
+
+._-data-source-src-components-DataSourceList-index-module__box {
+  height: 100%;
+}
+._-data-source-src-components-DataSourceList-index-module__box ._-data-source-src-components-DataSourceList-index-module__title {
+  height: 30px;
+  line-height: 30px;
+  color: #fff;
+  background-color: #0e0128;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+._-data-source-src-components-DataSourceList-index-module__box ._-data-source-src-components-DataSourceList-index-module__title > span {
+  padding: 0 15px;
+}
+._-data-source-src-components-DataSourceList-index-module__box ._-data-source-src-components-DataSourceList-index-module__title ._-data-source-src-components-DataSourceList-index-module__addMySqlBtn {
+  cursor: pointer;
+}
+._-data-source-src-components-DataSourceList-index-module__box ._-data-source-src-components-DataSourceList-index-module__title ._-data-source-src-components-DataSourceList-index-module__addMySqlBtn:hover {
+  color: #1890ff;
+}
+._-data-source-src-components-DataSourceList-index-module__box ._-data-source-src-components-DataSourceList-index-module__content {
+  height: calc(100% - 30px);
+  padding-top: 10px;
+  overflow-y: auto;
+}
+._-data-source-src-components-DataSourceList-index-module__tableList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  padding-bottom: 10px;
+}
+._-data-source-src-components-DataSourceList-index-module__tableList li {
+  position: relative;
+  margin: 1px 10px;
+  padding: 0 10px;
+  border: 1px solid #e1e1e1;
+  border-radius: 4px;
+  margin-bottom: 5px;
+  background: #f9f9f9;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+._-data-source-src-components-DataSourceList-index-module__tableList li ._-data-source-src-components-DataSourceList-index-module__li {
+  height: 33px;
+  line-height: 33px;
+  cursor: pointer;
+}
+._-data-source-src-components-DataSourceList-index-module__tableList li ._-data-source-src-components-DataSourceList-index-module__key {
+  position: absolute;
+  right: 0;
+  top: 5px;
+}
+._-data-source-src-components-DataSourceList-index-module__tableList li i {
+  color: #62a5c6;
+  margin-right: 5px;
+  vertical-align: middle;
+  margin-top: -2px;
+}
+._-data-source-src-components-DataSourceList-index-module__tableList li i * {
+  font-size: 11px;
+}
+._-data-source-src-components-DataSourceList-index-module__tableList li:hover {
+  background: #f5f5f5;
+}
+._-data-source-src-components-DataSourceList-index-module__myConnectTitle {
+  padding-left: 15px;
+  color: #666;
+  padding-bottom: 5px;
+}
+._-data-source-src-components-DataSourceList-index-module__myConnectTitle i * {
+  font-size: 12px;
+}
+._-data-source-src-components-DataSourceList-index-module__tabBarExtraContent {
+  padding-right: 15px;
+}
+._-data-source-src-components-DataSourceList-index-module__menuDrop ul li ul {
+  max-height: 200px;
+  overflow-y: auto;
+}
+._-data-source-src-components-DataSourceList-index-module__menuDrop li {
+  white-space: nowrap;
+}
+
+._-data-source-src-components-ResponseList-index-module__box {
+  height: 100%;
+}
+._-data-source-src-components-ResponseList-index-module__box ._-data-source-src-components-ResponseList-index-module__title {
+  height: 30px;
+  line-height: 30px;
+  color: #fff;
+  background-color: #0e0128;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+._-data-source-src-components-ResponseList-index-module__box ._-data-source-src-components-ResponseList-index-module__title > span {
+  padding: 0 15px;
+}
+._-data-source-src-components-ResponseList-index-module__box ._-data-source-src-components-ResponseList-index-module__title ._-data-source-src-components-ResponseList-index-module__addMySqlBtn {
+  cursor: pointer;
+}
+._-data-source-src-components-ResponseList-index-module__box ._-data-source-src-components-ResponseList-index-module__title ._-data-source-src-components-ResponseList-index-module__addMySqlBtn:hover {
+  color: #1890ff;
+}
+._-data-source-src-components-ResponseList-index-module__box ._-data-source-src-components-ResponseList-index-module__content {
+  height: calc(100% - 30px);
+  padding-top: 10px;
+  overflow-y: auto;
+}
+._-data-source-src-components-ResponseList-index-module__tableList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  padding-bottom: 10px;
+}
+._-data-source-src-components-ResponseList-index-module__tableList li {
+  position: relative;
+  margin: 1px 10px;
+  padding: 0 10px;
+  border: 1px solid #e1e1e1;
+  border-radius: 4px;
+  margin-bottom: 5px;
+  background: #fff;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+._-data-source-src-components-ResponseList-index-module__tableList li ._-data-source-src-components-ResponseList-index-module__li {
+  height: 28px;
+  line-height: 28px;
+}
+._-data-source-src-components-ResponseList-index-module__tableList li ._-data-source-src-components-ResponseList-index-module__li .ant-checkbox-disable {
+  color: #333;
+  cursor: default;
+}
+._-data-source-src-components-ResponseList-index-module__tableList li ._-data-source-src-components-ResponseList-index-module__key {
+  position: absolute;
+  right: 0;
+  top: 4px;
+}
+._-data-source-src-components-ResponseList-index-module__tableList li ._-data-source-src-components-ResponseList-index-module__key .ant-tag {
+  line-height: 15px;
+  padding-left: 2px;
+  padding-right: 2px;
+  margin-right: 3px;
+}
+._-data-source-src-components-ResponseList-index-module__tableList li i {
+  color: #62a5c6;
+  margin-right: 5px;
+  vertical-align: middle;
+  margin-top: -2px;
+}
+._-data-source-src-components-ResponseList-index-module__tableList li i * {
+  font-size: 11px;
+}
+._-data-source-src-components-ResponseList-index-module__tableList li:hover {
+  background: #f5f5f5;
+}
+._-data-source-src-components-ResponseList-index-module__myConnectTitle {
+  color: #999;
+  height: 15px;
+  margin: 10px 10px 0 10px;
+  /* padding-bottom: 5px; */
+  border-top: 1px dashed #ddd;
+}
+._-data-source-src-components-ResponseList-index-module__myConnectTitle > span {
+  background: #fff;
+  margin: -10px 0 0 15px;
+  display: inline-block;
+  float: left;
+  padding: 0 5px;
+  position: relative;
+}
+._-data-source-src-components-ResponseList-index-module__myConnectTitle i * {
+  font-size: 12px;
+}
+._-data-source-src-components-ResponseList-index-module__tabBarExtraContent {
+  padding-right: 15px;
+}
+._-data-source-src-components-ResponseList-index-module__typeIcon {
+  width: 25px;
+  white-space: nowrap;
+  margin-right: 3px;
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: middle;
+}
+._-data-source-src-components-ResponseList-index-module__typeIcon span {
+  transform: scale(0.6) translate(-37%, 0);
+  color: #c41d7f;
+  display: block;
+  white-space: nowrap;
+}
+
+._-my-designer-src-components-ParamEditModal-index-module__box {
+  min-height: 350px;
+  margin-top: -15px;
+}
+._-my-designer-src-components-ParamEditModal-index-module__box * {
+  font-size: 12px;
+}
+._-my-designer-src-components-ParamEditModal-index-module__box .ant-input {
+  font-size: 12px;
+}
+._-my-designer-src-components-ParamEditModal-index-module__box .ant-input-group-addon {
+  font-size: 12px;
+}
+._-my-designer-src-components-ParamEditModal-index-module__box ._-my-designer-src-components-ParamEditModal-index-module__inputSm .ant-input-sm {
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+._-my-designer-src-components-ParamEditModal-index-module__valueBox {
+  border: 1px solid #eee;
+  padding: 10px;
+  margin-bottom: 5px;
+  background: #f5f5f5;
+}
+._-my-designer-src-components-ParamEditModal-index-module__valueBoxActive {
+  border: 1px solid #ddd;
+  background: #fff;
+}
+._-my-designer-src-components-ParamEditModal-index-module__containerRow {
+  display: flex;
+  flex-direction: row;
+}
+._-my-designer-src-components-ParamEditModal-index-module__containerBox {
+  border: 1px solid #ddd;
+  margin: 20px 0;
+  border-radius: 4px;
+  position: relative;
+}
+._-my-designer-src-components-ParamEditModal-index-module__containerBoxTitle {
+  background: #fff;
+  padding: 5px;
+  line-height: 12px;
+  color: #999;
+  font-size: 12px;
+  position: absolute;
+  left: 10px;
+  top: -12px;
+}
+._-my-designer-src-components-ParamEditModal-index-module__containerBoxBody {
+  margin: 25px 15px 25px 15px;
+}
+._-my-designer-src-components-ParamEditModal-index-module__defaultValueContainer {
+  border-top: 1px solid #eee;
+  padding: 5px 15px;
+  background: #f9f9f9;
+  border-radius: 0 0 4px 4px;
+}
+._-my-designer-src-components-ParamEditModal-index-module__defaultValueContainer ._-my-designer-src-components-ParamEditModal-index-module__span {
+  color: #999;
+  padding-right: 15px;
+}
+._-my-designer-src-components-ParamEditModal-index-module__enumValueContainer {
+  border: 1px solid #eee;
+  padding: 5px 15px;
+  margin: 0 0 10px 0;
+  background: #f9f9f9;
+  border-radius: 4px;
+}
+._-my-designer-src-components-ParamEditModal-index-module__enumValueContainer span {
+  color: #999;
+  padding-right: 15px;
+}
+._-my-designer-src-components-ParamEditModal-index-module__dimensionEdit > div:first-child {
+  max-height: 200px;
+  min-height: 60px;
+  height: auto;
+}
+._-my-designer-src-components-ParamEditModal-index-module__dimensionEdit > div:last-child {
+  border: 1px solid #ddd;
+  margin-top: -1px;
+  padding: 5px;
+  background: #f5f5f5;
+}
+._-my-designer-src-components-ParamEditModal-index-module__inputBox input {
+  height: 25px;
+}
+._-my-designer-src-components-ParamEditModal-index-module__noDropSown {
+  display: none !important;
+}
+._-my-designer-src-components-ParamEditModal-index-module__orderCascader .ant-cascader-menus ul:first-child .ant-cascader-checkbox {
+  display: none;
+}
+._-my-designer-src-components-ParamEditModal-index-module__orderCascader .ant-cascader-menu-item-active:not(.ant-cascader-menu-item-disabled),
+._-my-designer-src-components-ParamEditModal-index-module__orderCascader .ant-cascader-menu-item-active:not(.ant-cascader-menu-item-disabled):hover {
+  font-weight: normal;
+}
+._-my-designer-src-components-ParamEditModal-index-module__orderCascader .ant-cascader-checkbox-indeterminate + .ant-cascader-menu-item-content {
+  color: #1890ff;
+}
+._-my-designer-src-components-ParamEditModal-index-module__required {
+  color: #ff0000;
+  display: inline-block;
+  width: 10px;
+  position: relative;
+}
+._-my-designer-src-components-ParamEditModal-index-module__required::after {
+  content: '*';
+  font-size: 16px;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translate(0, -50%);
+}
+
+._-my-designer-src-components-DimensionEdit-index-module__tableBox {
+  border: 1px solid #ddd;
+  height: 200px;
+  overflow-y: auto;
+}
+._-my-designer-src-components-DimensionEdit-index-module__tableBox ul,
+._-my-designer-src-components-DimensionEdit-index-module__tableBox li,
+._-my-designer-src-components-DimensionEdit-index-module__tableBox p {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+._-my-designer-src-components-DimensionEdit-index-module__tableBox li {
+  height: 28px;
+  line-height: 28px;
+  display: flex;
+  border-bottom: 1px solid #f9f9f9;
+}
+._-my-designer-src-components-DimensionEdit-index-module__tableBox li > p {
+  flex: 1;
+  border-left: 1px solid #eee;
+  padding: 0 10px;
+}
+._-my-designer-src-components-DimensionEdit-index-module__tableBox li:nth-child(odd) {
+  background: #f9f9f9;
+}
+._-my-designer-src-components-DimensionEdit-index-module__tableBox li > p:first-child {
+  border-left: none;
+}
+._-my-designer-src-components-DimensionEdit-index-module__tableBox li:hover {
+  background: #f5f5f5;
+}
+._-my-designer-src-components-DimensionEdit-index-module__tableBox li._-my-designer-src-components-DimensionEdit-index-module__checkedLi,
+._-my-designer-src-components-DimensionEdit-index-module__tableBox li._-my-designer-src-components-DimensionEdit-index-module__checkedLi:hover {
+  background: #c9e0e9;
+}
+._-my-designer-src-components-DimensionEdit-index-module__tableBox li._-my-designer-src-components-DimensionEdit-index-module__name {
+  background: #bbc2c5;
+}
+._-my-designer-src-components-DimensionEdit-index-module__autoHeight {
+  height: auto;
+  max-height: 200px;
+}
+._-my-designer-src-components-DimensionEdit-index-module__buttons {
+  padding-top: 10px;
+  display: flex;
+  flex-direction: row;
+  border: 1px solid #ddd;
+  border-top: none;
+  padding: 5px 10px;
+  background: #f9f9f9;
+}
+._-my-designer-src-components-DimensionEdit-index-module__buttons button {
+  margin-right: 10px;
+}
+._-my-designer-src-components-DimensionEdit-index-module__rowDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: 1px solid #ddd;
+  border-bottom: none;
+  padding: 5px 10px;
+  background: #f9f9f9;
+}
+
+._-my-designer-src-components-ParamEditModal-InputDropDown-index-module__box {
+  position: relative;
+}
+._-my-designer-src-components-ParamEditModal-InputDropDown-index-module__box ._-my-designer-src-components-ParamEditModal-InputDropDown-index-module__dropDown {
+  position: absolute;
+  top: 22px;
+  left: 0;
+  width: 100%;
+  max-height: 0px;
+  transition: all 0.5;
+  border: 1px solid #ddd;
+  box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.1);
+  background: #fff;
+  z-index: 1;
+  display: none;
+  overflow: hidden;
+}
+._-my-designer-src-components-ParamEditModal-InputDropDown-index-module__box ._-my-designer-src-components-ParamEditModal-InputDropDown-index-module__dropDown > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+._-my-designer-src-components-ParamEditModal-InputDropDown-index-module__box ._-my-designer-src-components-ParamEditModal-InputDropDown-index-module__dropDown > ul li {
+  list-style: none;
+  margin: 0;
+  display: block;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+._-my-designer-src-components-ParamEditModal-InputDropDown-index-module__box ._-my-designer-src-components-ParamEditModal-InputDropDown-index-module__dropDown > ul li ._-my-designer-src-components-ParamEditModal-InputDropDown-index-module__icon {
+  width: 20px;
+  display: inline-block;
+  color: green;
+}
+._-my-designer-src-components-ParamEditModal-InputDropDown-index-module__box ._-my-designer-src-components-ParamEditModal-InputDropDown-index-module__dropDown > ul li:hover {
+  background: #f5f5f5;
+}
+._-my-designer-src-components-ParamEditModal-InputDropDown-index-module__box ._-my-designer-src-components-ParamEditModal-InputDropDown-index-module__dropDownShow {
+  display: block;
+  max-height: 200px;
+  overflow-y: auto;
+}
+._-my-designer-src-components-ParamEditModal-InputDropDown-index-module__popupClassName .rc-virtual-list-holder-inner > div {
+  display: none;
+}
+._-my-designer-src-components-ParamEditModal-InputDropDown-index-module__popupClassName .rc-virtual-list-holder-inner > div[type] {
+  display: block;
+}
+._-my-designer-src-components-ParamEditModal-InputDropDown-index-module__popupClassName .rc-virtual-list-holder-inner > div[role] {
+  color: #1890ff;
+  position: relative;
+}
+._-my-designer-src-components-ParamEditModal-InputDropDown-index-module__popupClassName .rc-virtual-list-holder-inner > div[role]::after {
+  content: '\5F53\524D\64CD\4F5C\5B57\6BB5';
+  position: absolute;
+  right: 10px;
+  top: 0;
+  line-height: 32px;
+}
+._-my-designer-src-components-ParamEditModal-InputDropDown-index-module__popupClassName .rc-virtual-list-holder-inner > div.ant-select-item-option-selected {
+  display: none;
+}
+
+._-data-source-src-components-RequestList-index-module__box {
+  height: 100%;
+}
+._-data-source-src-components-RequestList-index-module__box ._-data-source-src-components-RequestList-index-module__title {
+  height: 30px;
+  line-height: 30px;
+  color: #fff;
+  background-color: #0e0128;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+._-data-source-src-components-RequestList-index-module__box ._-data-source-src-components-RequestList-index-module__title > span {
+  padding: 0 15px;
+}
+._-data-source-src-components-RequestList-index-module__box ._-data-source-src-components-RequestList-index-module__title ._-data-source-src-components-RequestList-index-module__addMySqlBtn {
+  cursor: pointer;
+}
+._-data-source-src-components-RequestList-index-module__box ._-data-source-src-components-RequestList-index-module__title ._-data-source-src-components-RequestList-index-module__addMySqlBtn:hover {
+  color: #1890ff;
+}
+._-data-source-src-components-RequestList-index-module__box ._-data-source-src-components-RequestList-index-module__content {
+  height: calc(100% - 30px);
+  padding-top: 10px;
+  overflow-y: auto;
+}
+._-data-source-src-components-RequestList-index-module__tableList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  padding-bottom: 10px;
+}
+._-data-source-src-components-RequestList-index-module__tableList li {
+  position: relative;
+  margin: 1px 10px;
+  padding: 0 10px;
+  border: 1px solid #e1e1e1;
+  border-radius: 4px;
+  margin-bottom: 5px;
+  background: #fff;
+  cursor: move;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+._-data-source-src-components-RequestList-index-module__tableList li ._-data-source-src-components-RequestList-index-module__li {
+  height: 28px;
+  line-height: 28px;
+  cursor: pointer;
+}
+._-data-source-src-components-RequestList-index-module__tableList li ._-data-source-src-components-RequestList-index-module__key {
+  position: absolute;
+  right: 0;
+  top: 4px;
+}
+._-data-source-src-components-RequestList-index-module__tableList li ._-data-source-src-components-RequestList-index-module__key .ant-tag {
+  line-height: 15px;
+  padding-left: 2px;
+  padding-right: 2px;
+  margin-right: 3px;
+}
+._-data-source-src-components-RequestList-index-module__tableList li i {
+  color: #62a5c6;
+  margin-right: 5px;
+  vertical-align: middle;
+  margin-top: -2px;
+}
+._-data-source-src-components-RequestList-index-module__tableList li i * {
+  font-size: 11px;
+}
+._-data-source-src-components-RequestList-index-module__tableList li:hover {
+  background: #f5f5f5;
+}
+._-data-source-src-components-RequestList-index-module__myConnectTitle {
+  color: #999;
+  height: 15px;
+  margin: 10px 10px 0 10px;
+  /* padding-bottom: 5px; */
+  border-top: 1px dashed #ddd;
+}
+._-data-source-src-components-RequestList-index-module__myConnectTitle > span {
+  background: #fff;
+  margin: -10px 0 0 15px;
+  display: inline-block;
+  float: left;
+  padding: 0 5px;
+  position: relative;
+}
+._-data-source-src-components-RequestList-index-module__myConnectTitle i * {
+  font-size: 12px;
+}
+._-data-source-src-components-RequestList-index-module__tabBarExtraContent {
+  padding-right: 15px;
+}
+._-data-source-src-components-RequestList-index-module__typeIcon {
+  width: 25px;
+  white-space: nowrap;
+  margin-right: 3px;
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: middle;
+}
+._-data-source-src-components-RequestList-index-module__typeIcon span {
+  transform: scale(0.6) translate(-37%, 0);
+  color: #c41d7f;
+  display: block;
+  white-space: nowrap;
+}
+
+._-my-designer-src-components-ImportDataModel-index-module__box {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  visibility: hidden;
+  opacity: 0;
+  transition: all 1s;
+  height: calc(100vh - 50px);
+  background: #fff;
+}
+._-my-designer-src-components-ImportDataModel-index-module__box ._-my-designer-src-components-ImportDataModel-index-module__content {
+  position: relative;
+  height: 100%;
+}
+._-my-designer-src-components-ImportDataModel-index-module__boxShow {
+  visibility: visible;
+  opacity: 1;
+  z-index: 2;
+}
+
+
+._-my-designer-src-components-DataModelBar-RefreshDataModal-index-module__box .ant-space-item {
+  display: flex;
+  flex-direction: row;
+}
+._-my-designer-src-components-DataModelBar-RefreshDataModal-index-module__box .ant-space-item .ant-row {
+  padding-right: 10px;
+}
+._-my-designer-src-components-DataModelBar-RefreshDataModal-index-module__box .ant-space-item .anticon-minus-circle {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+._-my-designer-src-components-MeasureEdit-index-module__tableBox {
+  border: 1px solid #ddd;
+  height: 200px;
+  overflow-y: auto;
+}
+._-my-designer-src-components-MeasureEdit-index-module__tableBox ul,
+._-my-designer-src-components-MeasureEdit-index-module__tableBox li,
+._-my-designer-src-components-MeasureEdit-index-module__tableBox p {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+._-my-designer-src-components-MeasureEdit-index-module__tableBox li {
+  height: 28px;
+  line-height: 28px;
+  display: flex;
+  border-bottom: 1px solid #f9f9f9;
+}
+._-my-designer-src-components-MeasureEdit-index-module__tableBox li > p {
+  flex: 1;
+  border-left: 1px solid #eee;
+  padding: 0 10px;
+}
+._-my-designer-src-components-MeasureEdit-index-module__tableBox li:nth-child(odd) {
+  background: #f9f9f9;
+}
+._-my-designer-src-components-MeasureEdit-index-module__tableBox li > p:first-child {
+  border-left: none;
+}
+._-my-designer-src-components-MeasureEdit-index-module__tableBox li:hover {
+  background: #f5f5f5;
+}
+._-my-designer-src-components-MeasureEdit-index-module__tableBox li._-my-designer-src-components-MeasureEdit-index-module__checkedLi,
+._-my-designer-src-components-MeasureEdit-index-module__tableBox li._-my-designer-src-components-MeasureEdit-index-module__checkedLi:hover {
+  background: #c9e0e9;
+}
+._-my-designer-src-components-MeasureEdit-index-module__buttons {
+  padding-top: 10px;
+}
+._-my-designer-src-components-MeasureEdit-index-module__buttons button {
+  margin-right: 10px;
+}
+
+
+._-dom-container-src-components-DomContainer-index-module__dragContainer {
+  flex: auto;
+  border: 2px dotted #1890ff;
+  background-color: rgba(247, 241, 232, 0.4);
+  opacity: 0;
+}
+._-dom-container-src-components-DomContainer-index-module__dragContainerSelect {
+  border: 2px dotted #1890ff;
+  z-index: 1000;
+  opacity: 1;
+}
+._-dom-container-src-components-DomContainer-index-module__parentBox {
+  display: flex;
+  flex-direction: column;
+}
+._-dom-container-src-components-DomContainer-index-module__parentBox > div[nodename] {
+  height: 100%;
+}
+._-dom-container-src-components-DomContainer-index-module__parentBox > div[nodetype="row"] {
+  min-height: 10px;
+  flex: auto;
+}
+._-dom-container-src-components-DomContainer-index-module__parentBox > div[nodetype="column"] {
+  min-width: 10px;
+  flex: auto;
+}
+._-dom-container-src-components-DomContainer-index-module__parentBox > div[resizename="top"],
+._-dom-container-src-components-DomContainer-index-module__parentBox > div[resizename="bottom"],
+._-dom-container-src-components-DomContainer-index-module__parentBox > div[resizename="right"],
+._-dom-container-src-components-DomContainer-index-module__parentBox > div[resizename="left"] {
+  display: none;
+}
+._-dom-container-src-components-DomContainer-index-module__parentBox > [needsizeevent="true"] {
+  height: 100%;
+}
+._-dom-container-src-components-DomContainer-index-module__parentBoxHover,
+._-dom-container-src-components-DomContainer-index-module__parentBoxSelect {
+  position: relative;
+}
+._-dom-container-src-components-DomContainer-index-module__parentBoxHover > ._-dom-container-src-components-DomContainer-index-module__selectBorderLeft,
+._-dom-container-src-components-DomContainer-index-module__parentBoxSelect > ._-dom-container-src-components-DomContainer-index-module__selectBorderLeft,
+._-dom-container-src-components-DomContainer-index-module__parentBoxHover > div[resizename="left"],
+._-dom-container-src-components-DomContainer-index-module__parentBoxSelect > div[resizename="left"] {
+  top: 4px;
+  left: 0;
+  width: 4px;
+  height: calc(100% - 8px);
+  position: absolute;
+  z-index: 999;
+}
+._-dom-container-src-components-DomContainer-index-module__parentBoxHover > ._-dom-container-src-components-DomContainer-index-module__selectBorderRight,
+._-dom-container-src-components-DomContainer-index-module__parentBoxSelect > ._-dom-container-src-components-DomContainer-index-module__selectBorderRight,
+._-dom-container-src-components-DomContainer-index-module__parentBoxHover > div[resizename="right"],
+._-dom-container-src-components-DomContainer-index-module__parentBoxSelect > div[resizename="right"] {
+  top: 4px;
+  right: 0;
+  width: 4px;
+  height: calc(100% - 8px);
+  position: absolute;
+  z-index: 999;
+}
+._-dom-container-src-components-DomContainer-index-module__parentBoxHover > ._-dom-container-src-components-DomContainer-index-module__selectBorderTop,
+._-dom-container-src-components-DomContainer-index-module__parentBoxSelect > ._-dom-container-src-components-DomContainer-index-module__selectBorderTop,
+._-dom-container-src-components-DomContainer-index-module__parentBoxHover > div[resizename="top"],
+._-dom-container-src-components-DomContainer-index-module__parentBoxSelect > div[resizename="top"] {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  position: absolute;
+  z-index: 999;
+}
+._-dom-container-src-components-DomContainer-index-module__parentBoxHover > ._-dom-container-src-components-DomContainer-index-module__selectBorderBottom,
+._-dom-container-src-components-DomContainer-index-module__parentBoxSelect > ._-dom-container-src-components-DomContainer-index-module__selectBorderBottom,
+._-dom-container-src-components-DomContainer-index-module__parentBoxHover > div[resizename="bottom"],
+._-dom-container-src-components-DomContainer-index-module__parentBoxSelect > div[resizename="bottom"] {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  position: absolute;
+  z-index: 999;
+}
+._-dom-container-src-components-DomContainer-index-module__parentBoxHover:not(._-dom-container-src-components-DomContainer-index-module__parentBoxSelect) > ._-dom-container-src-components-DomContainer-index-module__selectBorderTop,
+._-dom-container-src-components-DomContainer-index-module__parentBoxHover:not(._-dom-container-src-components-DomContainer-index-module__parentBoxSelect) > ._-dom-container-src-components-DomContainer-index-module__selectBorderLeft,
+._-dom-container-src-components-DomContainer-index-module__parentBoxHover:not(._-dom-container-src-components-DomContainer-index-module__parentBoxSelect) > ._-dom-container-src-components-DomContainer-index-module__selectBorderRight,
+._-dom-container-src-components-DomContainer-index-module__parentBoxHover:not(._-dom-container-src-components-DomContainer-index-module__parentBoxSelect) > ._-dom-container-src-components-DomContainer-index-module__selectBorderBottom {
+  background: var(--ant-text-color);
+  opacity: 0.2;
+  pointer-events: none;
+}
+._-dom-container-src-components-DomContainer-index-module__parentBoxSelect > ._-dom-container-src-components-DomContainer-index-module__selectBorderTop,
+._-dom-container-src-components-DomContainer-index-module__parentBoxSelect > ._-dom-container-src-components-DomContainer-index-module__selectBorderLeft,
+._-dom-container-src-components-DomContainer-index-module__parentBoxSelect > ._-dom-container-src-components-DomContainer-index-module__selectBorderRight,
+._-dom-container-src-components-DomContainer-index-module__parentBoxSelect > ._-dom-container-src-components-DomContainer-index-module__selectBorderBottom {
+  pointer-events: none;
+}
+._-dom-container-src-components-DomContainer-index-module__parentBoxSelect > div[resizename="right"],
+._-dom-container-src-components-DomContainer-index-module__parentBoxSelect > div[resizename="bottom"] {
+  display: block;
+}
+[styleflex="auto"] + ._-dom-container-src-components-DomContainer-index-module__parentBoxSelect > div[resizename="left"] {
+  display: block;
+}
+._-dom-container-src-components-DomContainer-index-module__emptyContainerTools {
+  position: relative;
+  z-index: 999;
+}
+._-dom-container-src-components-DomContainer-index-module__emptyContainerToolsBtns {
+  position: absolute;
+  right: 4px;
+  top: 4px;
+  display: none;
+  background: rgba(0, 0, 0, 0.05);
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+._-dom-container-src-components-DomContainer-index-module__parentBoxSelect > ._-dom-container-src-components-DomContainer-index-module__emptyContainerTools > ._-dom-container-src-components-DomContainer-index-module__emptyContainerToolsBtns,
+._-dom-container-src-components-DomContainer-index-module__parentBoxHover > ._-dom-container-src-components-DomContainer-index-module__emptyContainerTools > ._-dom-container-src-components-DomContainer-index-module__emptyContainerToolsBtns {
+  display: block;
+}
+._-dom-container-src-components-DomContainer-index-module__parentBoxSelect > ._-dom-container-src-components-DomContainer-index-module__emptyContainerTools > ._-dom-container-src-components-DomContainer-index-module__emptyContainerToolsBtns {
+  background: rgba(0, 0, 0, 0.15);
+}
+._-dom-container-src-components-DomContainer-index-module__parentBoxSelectDark > ._-dom-container-src-components-DomContainer-index-module__emptyContainerTools > ._-dom-container-src-components-DomContainer-index-module__emptyContainerToolsBtns {
+  background: rgba(255, 255, 255, 0.8);
+  opacity: 0.9;
+}
+[styleflex="auto"] ~ ._-dom-container-src-components-DomContainer-index-module__dragContainer,
+[styleflex="1"] ~ ._-dom-container-src-components-DomContainer-index-module__dragContainer {
+  flex: none;
+}
+[styleflex="auto"] > div[nodetype="row"] {
+  height: 100%;
+}
+[dragerror="repeat"] {
+  position: relative;
+}
+[dragerror="repeat"]::before {
+  content: '\4E0D\80FD\91CD\590D\5D4C\5957';
+  color: #ff0000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 25px;
+  line-height: 25px;
+  transform: translate(-50%, -50%);
+}
+[nodetype="emptycontainer"] [nodetype="autocomponent"] {
+  height: 100%;
+}
+._-dom-container-src-components-DomContainer-index-module__quill {
+  background: rgba(255, 255, 255, 0.7);
+}
+._-dom-container-src-components-DomContainer-index-module__quill .ql-snow .ql-formats {
+  float: left;
+}
+._-dom-container-src-components-DomContainer-index-module__quill .ql-container {
+  max-height: calc(100vh - 160px);
+  overflow: auto;
+}
+._-dom-container-src-components-DomContainer-index-module__quill .ql-tooltip {
+  transform: translate(180px, -25px) !important;
+}
+
+._-dom-container-src-components-ContainerResize-index-module__dragElementBottom {
+  cursor: row-resize;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  bottom: 0;
+  height: 3px;
+  z-index: 1001;
+}
+._-dom-container-src-components-ContainerResize-index-module__dragElementTop {
+  cursor: row-resize;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  top: 0;
+  height: 3px;
+  z-index: 1001;
+}
+._-dom-container-src-components-ContainerResize-index-module__dragElementRight {
+  cursor: col-resize;
+  position: absolute;
+  right: -1px;
+  height: 100%;
+  top: 0;
+  width: 3px;
+  z-index: 1001;
+}
+._-dom-container-src-components-ContainerResize-index-module__dragElementLeft {
+  cursor: col-resize;
+  position: absolute;
+  left: 0;
+  height: 100%;
+  top: 0;
+  width: 3px;
+  z-index: 1001;
+}
+._-dom-container-src-components-ContainerResize-index-module__dragElementRightBottom {
+  cursor: nwse-resize;
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  right: 0;
+  bottom: 0;
+  z-index: 1002;
+}
+
