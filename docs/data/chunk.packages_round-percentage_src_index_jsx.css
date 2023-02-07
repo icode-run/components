@@ -1,0 +1,176 @@
+@-webkit-keyframes packages-round-percentage-src-index-module__roundBottomAnimation {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes packages-round-percentage-src-index-module__roundBottomAnimation {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes packages-round-percentage-src-index-module__roundBgAnimation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@keyframes packages-round-percentage-src-index-module__roundBgAnimation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.packages-round-percentage-src-index-module__boxDark,
+.packages-round-percentage-src-index-module__box {
+  position: relative;
+  height: 100%;
+  font-family: PingFang-SC-Medium, PingFang-SC;
+}
+.packages-round-percentage-src-index-module__box::after,
+.packages-round-percentage-src-index-module__boxDark::after,
+.packages-round-percentage-src-index-module__box::before,
+.packages-round-percentage-src-index-module__boxDark::before {
+  content: '';
+  background: url('http://image.tf56.com/dfs/group1/M00/7F/96/CiFCK2Dax7GADaWfAAAE8slKLQ4314.png') 0 0 no-repeat;
+  right: 0;
+  top: 0;
+  width: 25%;
+  height: 100%;
+  background-size: 100% auto;
+  position: absolute;
+}
+.packages-round-percentage-src-index-module__box::before,
+.packages-round-percentage-src-index-module__boxDark::before {
+  right: auto;
+  left: 0;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.packages-round-percentage-src-index-module__roundBox {
+  height: 100%;
+  position: relative;
+  width: 90%;
+  margin: 0 auto;
+}
+.packages-round-percentage-src-index-module__roundBox .packages-round-percentage-src-index-module__roundBg {
+  background: url('http://image.tf56.com/dfs/group1/M00/7F/76/CiFCK2Dag9yAfm42AAIHxmwtkVM429.png') 0 0 no-repeat;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% auto;
+  -webkit-animation: packages-round-percentage-src-index-module__roundBgAnimation 30s linear infinite;
+          animation: packages-round-percentage-src-index-module__roundBgAnimation 30s linear infinite;
+}
+.packages-round-percentage-src-index-module__roundBox .packages-round-percentage-src-index-module__round {
+  background: url('http://image.tf56.com/dfs/group1/M00/7F/74/CiFCK2DafqaADwtkAAGOrfqfjyE999.png') 0 0 no-repeat;
+  width: 70.28%;
+  height: 70.28%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-size: 100% auto;
+  z-index: 1;
+}
+.packages-round-percentage-src-index-module__roundBox .packages-round-percentage-src-index-module__roundNumber {
+  width: 70.28%;
+  height: 70.28%;
+  position: relative;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+.packages-round-percentage-src-index-module__roundBox .packages-round-percentage-src-index-module__roundNumber .packages-round-percentage-src-index-module__roundNumberRight,
+.packages-round-percentage-src-index-module__roundBox .packages-round-percentage-src-index-module__roundNumber .packages-round-percentage-src-index-module__roundNumberLeft {
+  overflow: hidden;
+  height: 100%;
+  width: 50.1%;
+  position: absolute;
+  top: 0;
+}
+.packages-round-percentage-src-index-module__roundBox .packages-round-percentage-src-index-module__roundNumber .packages-round-percentage-src-index-module__roundNumberRight > div,
+.packages-round-percentage-src-index-module__roundBox .packages-round-percentage-src-index-module__roundNumber .packages-round-percentage-src-index-module__roundNumberLeft > div {
+  position: absolute;
+  margin: 0;
+  width: 200%;
+  height: 100%;
+  border-radius: 50%;
+  border: 20px solid transparent;
+  transform: rotate(135deg);
+  transition: transform 2s;
+}
+.packages-round-percentage-src-index-module__roundBox .packages-round-percentage-src-index-module__roundNumber .packages-round-percentage-src-index-module__roundNumberLeft {
+  left: 0;
+}
+.packages-round-percentage-src-index-module__roundBox .packages-round-percentage-src-index-module__roundNumber .packages-round-percentage-src-index-module__roundNumberLeft > div {
+  left: 0;
+  border-top-color: #6af0ff;
+  border-left-color: #6af0ff;
+}
+.packages-round-percentage-src-index-module__roundBox .packages-round-percentage-src-index-module__roundNumber .packages-round-percentage-src-index-module__roundNumberRight {
+  right: 0;
+}
+.packages-round-percentage-src-index-module__roundBox .packages-round-percentage-src-index-module__roundNumber .packages-round-percentage-src-index-module__roundNumberRight > div {
+  right: 0;
+  border-bottom-color: #6af0ff;
+  border-right-color: #6af0ff;
+}
+.packages-round-percentage-src-index-module__roundBox .packages-round-percentage-src-index-module__h2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  color: #00ffdf;
+  font-size: 2.1em;
+  font-family: PingFang-SC-Medium, PingFang-SC;
+  font-weight: bold;
+  color: #1cfff7;
+  transform: translate(-50%, -1em);
+  text-shadow: 0px 0px 18px rgba(0, 113, 255, 0.5);
+}
+.packages-round-percentage-src-index-module__roundBox .packages-round-percentage-src-index-module__h2 > span {
+  font-size: 0.4em;
+}
+.packages-round-percentage-src-index-module__roundBox .packages-round-percentage-src-index-module__h3 {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 2em);
+  font-size: 0.6em;
+  font-family: PingFang-SC-Medium, PingFang-SC;
+  font-weight: 500;
+  color: #1cfff7;
+  opacity: 0.8;
+  line-height: 0.6em;
+  text-align: center;
+}
+.packages-round-percentage-src-index-module__roundBottom {
+  background: url('http://image.tf56.com/dfs/group1/M00/7F/75/CiFCK2DagSeAIEPwAAFh45Hibjw125.png') center bottom no-repeat;
+  width: 85%;
+  height: 100%;
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translate(-50%, 0);
+  background-size: 100% auto;
+  -webkit-animation: packages-round-percentage-src-index-module__roundBottomAnimation 2s infinite;
+          animation: packages-round-percentage-src-index-module__roundBottomAnimation 2s infinite;
+}
+

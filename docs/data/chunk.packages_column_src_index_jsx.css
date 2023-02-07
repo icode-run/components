@@ -1,0 +1,16 @@
+.packages-container-src-index-module__row {
+  display: flex;
+  flex-direction: row;
+}
+.packages-container-src-index-module__column {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.packages-container-src-index-module__columnAuto {
+  flex: auto;
+}
+[nodetype="emptycontainer"] .packages-container-src-index-module__columnAuto {
+  display: none;
+}
+

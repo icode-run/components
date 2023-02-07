@@ -1,0 +1,60 @@
+.packages-history-carousel-src-index-module__componentHistory {
+  overflow: hidden;
+  height: 100%;
+}
+.packages-history-carousel-src-index-module__componentHistory .history-content {
+  position: relative;
+  margin: 0;
+  padding: 0 1rem;
+  list-style: none;
+  color: var(--icode-text-color);
+  line-height: 1.5;
+  font-size: 0.7rem;
+}
+.packages-history-carousel-src-index-module__componentHistory .history-content:before {
+  content: '';
+  position: absolute;
+  left: calc(3rem - 1px);
+  top: 0;
+  width: 1px;
+  height: 100%;
+  background-color: #0d67a2;
+  z-index: 0;
+}
+.packages-history-carousel-src-index-module__componentHistory .history-content li {
+  padding: 0.5rem 0;
+}
+.packages-history-carousel-src-index-module__componentHistory .history-content li.no-date {
+  padding: 0.4em 0;
+}
+.packages-history-carousel-src-index-module__componentHistory .history-content li.no-date .date {
+  margin: 5px 0 0 1.55rem;
+  padding: 0;
+  width: 0.8rem;
+  height: 0.8rem;
+  border-radius: 0.4rem;
+  background-color: #00acff;
+  border: 0 none;
+}
+.packages-history-carousel-src-index-module__componentHistory .history-content li.no-date .description {
+  margin: 0 0 0 2.8rem;
+}
+.packages-history-carousel-src-index-module__componentHistory .date {
+  position: absolute;
+  float: left;
+  padding: 0 0.4rem;
+  background-color: #0f3469;
+  border: 1px solid #0d316d;
+  color: #1585c8;
+  font-style: normal;
+  text-align: center;
+  box-shadow: 0 0 6px 0px rgba(26, 156, 231, 0.8);
+  line-height: 1.2rem;
+  font-size: 0.8rem;
+  z-index: 1;
+}
+.packages-history-carousel-src-index-module__componentHistory .description {
+  margin: 0 0 0 5.5rem;
+  padding-top: 0.1rem;
+}
+
